@@ -1,0 +1,2 @@
+# User-Behavior-Analysis-A-A-B-Testing-in-a-Food-Commerce-App
+This project analyzes user behavior within a food commerce mobile application to understand interaction patterns, evaluate conversion performance, and assess the reliability and impact of A/A/B testing. The analysis supports data-driven product decisions by validating experiments and identifying opportunities for UX and funnel optimization.
